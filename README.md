@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :earth_asia:&nbsp; &nbsp;São Paulo - Brasil
+- :earth_asia:&nbsp; &nbsp;Jandira (SP) - Brasil
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na <a href="http://www.fateccarapicuiba.edu.br/">FATEC Carapicuíba</a>
 - :books:&nbsp;&nbsp; Cursei o **Técnico de Informática** no <a href="https://fieb.edu.br/curso/informatica/">ITB brasílio flores de azevedo pela FIEB</a>
 
@@ -27,17 +27,20 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TypeScript-02569B?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![REACT](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🛠 Ferramentas de Desenvolvimento
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
+![Café + Música](https://img.shields.io/badge/-Café%20+%20Música-333333?style=flat&logo=coffeescript)
 
 <div>
   <a href="https://github.com/brendoonn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KailanySousa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailanySousa&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendoonn&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoonn&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 ## 🔍 Onde me encontrar
@@ -50,6 +53,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://cursos.alura.com.br/user/brendoonn" alt="Alura">
-  <img src="https://img.shields.io/badge/-ALURA-1E90FF?style=flat-square&labelColor=1E90FF/></a>
+  <img src="https://img.shields.io/badge/-ALURA-1E90FF?style=flat-square&labelColor=1E90FF" /></a>
 
 </p>  
+
+## Para montar esse Readme eu tive uma ajuda da <a href="https://github.com/KailanySousa/">Kailany Souza</a>, deem uma olhada no perfil dela :wink:	
